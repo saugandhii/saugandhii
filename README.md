@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi, I'm Saugandhii! ✨
+# ✨ Hi, I'm Saugandhi! ✨
 > *...but you can call me **Sandy**! 🌸*
 
 ###  *Adding color to code so I never get bored.*
